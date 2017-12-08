@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Nova kolekcija!</title>
+			<description>Pogledajte našu ponudu novih modela satova.</description>
+			<link>https://cubrilosrdjan.github.io/brendovi.html</link>
+		</item>
+		<item>
+			<title>Osvoji popust!</title>
+			<description>Ukoliko se registruješ, ostvaruješ pravo na popust od 5% na sve naše artikle.</description>
+			<link>https://cubrilosrdjan.github.io/registracija.html</link>
+		</item>
+	</channel>
+</rss>
