@@ -313,7 +313,7 @@ a:visited {
 }
 
 #googleMap {
-	width:200px;
+	width:280px;
 	height: 120px;
 	float:left;
 }
@@ -321,8 +321,6 @@ a:visited {
 #social-network {
 	float: right;
 	margin-top: 45px;
-	position: absolute;
-	right: 270px;
 }
 
 #social-network li {
